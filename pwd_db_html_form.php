@@ -16,7 +16,7 @@
 		<?php display_date();echo welcome(); echo $db_conn;?>
 	</section>
 	<section id="query">
-		<form method="post" action="akey_process.php">
+		<form method="post" action="form_process.php">
 			<fieldset>
 				<!--<legend>Akey database</legend>-->
 				<label for="key">Your password to be verified:</label>
